@@ -14,7 +14,7 @@
         android:layout_marginTop="128dp"
         android:fontFamily="sans-serif-black"
         android:text="@string/title"
-        android:textSize="26sp"
+        android:textSize="32sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
@@ -28,6 +28,7 @@
         android:layout_marginTop="6dp"
         android:layout_marginEnd="16dp"
         android:text="@string/subtitle"
+        android:textSize="16sp"
         app:layout_constraintTop_toBottomOf="@id/tv_title" />
 
     <com.google.android.material.textfield.TextInputLayout
@@ -105,6 +106,7 @@
         app:layout_constraintTop_toBottomOf="@+id/tin_totalPeople">
 
         <RadioButton
+            android:id="@+id/rb_one"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginEnd="60dp"
@@ -112,6 +114,7 @@
             android:textSize="20sp" />
 
         <RadioButton
+            android:id="@+id/rb_two"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginEnd="60dp"
@@ -119,6 +122,7 @@
             android:textSize="20sp" />
 
         <RadioButton
+            android:id="@+id/rb_three"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="20%"
