@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tips_calculator</string>
+    <string name="subtitle">Fill in all the fields below to calculate your tips:</string>
+    <string name="title">Tips Calculator</string>
+</resources>

@@ -1,1 +1,0 @@
-# tips_calculator
