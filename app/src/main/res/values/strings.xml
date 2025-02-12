@@ -2,4 +2,11 @@
     <string name="app_name">tips_calculator</string>
     <string name="subtitle">Fill in all the fields below to calculate your tips:</string>
     <string name="title">Tips Calculator</string>
+    <string name="rb_three">20%</string>
+    <string name="rb_two">15%</string>
+    <string name="rb_one">10%</string>
+    <string name="btn_calc">calculate</string>
+    <string name="btn_clean">clean</string>
+    <string name="total_people">Total people. Ex: 4</string>
+    <string name="total_value">Total value. Ex: $ 120.00</string>
 </resources>
