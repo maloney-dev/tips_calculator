@@ -109,20 +109,20 @@
             android:layout_height="wrap_content"
             android:layout_marginEnd="60dp"
             android:text="10%"
-            android:textSize="20dp" />
+            android:textSize="20sp" />
 
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginEnd="60dp"
             android:text="15%"
-            android:textSize="20dp" />
+            android:textSize="20sp" />
 
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="20%"
-            android:textSize="20dp" />
+            android:textSize="20sp" />
 
 
     </RadioGroup>
